@@ -152,6 +152,7 @@
     <Compile Include="Games\TetrisEffectConnector.cs" />
     <Compile Include="Games\MiniMetroConnector.cs" />
     <Compile Include="Games\SuperHexagonConnector.cs" />
+    <Compile Include="Games\RollerdromeConnector.cs" />
     <Compile Include="HintQuestCounter.cs" />
     <Compile Include="HintQuestCumulative.cs" />
     <Compile Include="HintQuest.cs" />
@@ -292,6 +293,7 @@
     <Resource Include="Assets\Covers\zachtronics_solitaire_collection.png" />
     <Resource Include="Assets\Covers\sonic_blue_spheres.png" />
     <Resource Include="Assets\Covers\luck_be_a_landord.png" />
+    <Resource Include="Assets\Covers\rollerdrome.png" />
     <Content Include="threadstack.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

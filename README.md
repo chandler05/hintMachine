@@ -56,6 +56,7 @@ You can check [this document](https://github.com/CalDrac/hintMachine/blob/dev/ad
 | PAC-MAN Championship Edition DX+ | PC        |
 | Puyo Puyo Tetris                 | PC        |
 | Rollcage Stage 2                 | PS1       |
+| Rollerdrome                      | PC        |
 | Sonic 3 Blue Spheres             | Megadrive |
 | Stargunner                       | PC        |
 | Super Hexagon                    | PC        |
